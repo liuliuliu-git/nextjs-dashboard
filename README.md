@@ -1,34 +1,11 @@
-# Next.js Dashboard Application
 
-一个功能完整的 Next.js 仪表板应用程序，使用 App Router 构建，包含用户管理、客户管理、发票管理和收入统计功能。
+## Next.js App Router Course - Starter
 
-## 🚀 功能特性
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-### 📊 仪表板功能
-- **数据概览**: 显示发票总数、客户总数、已付/待付金额
-- **收入图表**: 月度收入趋势可视化
-- **最新发票**: 显示最近5条发票记录
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-### 👥 用户管理
-- 用户注册和登录
-- 密码加密存储
-- 会话管理
-
-### 🏢 客户管理
-- 客户信息存储和管理
-- 客户搜索和过滤
-- 客户头像显示
-- 客户发票统计
-
-### 📄 发票管理
-- 发票创建、编辑、删除
-- 发票状态管理（已付/待付）
-- 发票搜索和分页
-- 发票与客户关联
-
-### 📈 收入统计
-- 月度收入数据存储
-- 收入趋势分析
+ 收入趋势分析
 - 数据可视化
 
 ## 🛠️ 技术栈
